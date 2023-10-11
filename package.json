@@ -1,0 +1,31 @@
+{
+  "name": "katas-7-recriandofuncoesjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaniziaFagundes/Katas-7-recriandoFuncoesJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaniziaFagundes/Katas-7-recriandoFuncoesJavascript/issues"
+  },
+  "homepage": "https://github.com/TaniziaFagundes/Katas-7-recriandoFuncoesJavascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    }
+  }
+}
